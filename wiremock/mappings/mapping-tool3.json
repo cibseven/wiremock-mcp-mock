@@ -1,0 +1,11 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/tools/tool3"
+  },
+  "response": {
+    "status": 200,
+    "headers": { "Content-Type": "application/json" },
+    "bodyFileName": "tool3-response.json"
+  }
+}

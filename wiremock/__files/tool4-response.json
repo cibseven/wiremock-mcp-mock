@@ -1,0 +1,7 @@
+{
+  "tool": "tool4",
+  "id": 4,
+  "status": "ok",
+  "result": "Tool 4 processed successfully",
+  "notes": "dummy response"
+}

@@ -1,0 +1,10 @@
+services:
+  wiremock:
+    image: wiremock/wiremock:3.13.2
+    container_name: wiremock-mcp-mock
+    ports:
+      - "9090:8080"
+    volumes:
+      - ./wiremock:/home/wiremock
+    restart: unless-stopped
+
