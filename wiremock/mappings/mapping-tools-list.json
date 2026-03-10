@@ -1,0 +1,11 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/tools/list"
+  },
+  "response": {
+    "status": 200,
+    "headers": { "Content-Type": "application/json" },
+    "body": "{\"tools\": [{\"name\": \"tool10\"}, {\"name\": \"tool11\"}]}"
+  }
+}
