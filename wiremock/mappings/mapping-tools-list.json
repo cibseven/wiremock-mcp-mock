@@ -1,11 +1,1 @@
-{
-  "request": {
-    "method": "GET",
-    "url": "/tools/list"
-  },
-  "response": {
-    "status": 200,
-    "headers": { "Content-Type": "application/json" },
-    "body": "{\"tools\": [{\"name\": \"tool10\"}, {\"name\": \"tool11\"}]}"
-  }
-}
+{"request":{"method":"GET","url":"/tools/list"},"response":{"status":200,"headers":{"Content-Type":"application/json"},"body":"{\"tools\": [{\"name\": \"tool0\"}, {\"name\": \"tool1\"}, {\"name\": \"tool2\"}, {\"name\": \"tool3\"}, {\"name\": \"tool4\"}, {\"name\": \"tool5\"}, {\"name\": \"tool6\"}, {\"name\": \"tool7\"}, {\"name\": \"tool8\"}, {\"name\": \"tool9\"}]}","status":200}}
